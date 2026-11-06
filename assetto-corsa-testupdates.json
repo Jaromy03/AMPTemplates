@@ -1,0 +1,8 @@
+[
+    {
+        "UpdateStageName": "test",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "302550"
+    }
+]
